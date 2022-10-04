@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clicks</string>
+    <string name="saludo">Hola mundo</string>
+    <string name="btn_saludar">Saludar</string>
+    <string name="saludo2">Hola Amaury</string>
+    <string name="saludo3">Hola Héctor</string>
+    <string name="saludo4">Hola!!!!!</string>
+    <string name="happy_face">:-D</string>
+</resources>
